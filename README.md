@@ -28,9 +28,12 @@ ELITE Tech Internship in Data Science and Machine Learning.
 - Designed and optimized machine learning models  
 🔗 GitHub: https://github.com/Kalyan-kumar-2005/ELITE-Task4-Optimization-Model
 
-## Technologies Used
+## Technologies & Tools Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 - Deep Learning
+- Jupter Notebook
+- Vs Code
+- GitHub
